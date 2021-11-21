@@ -1,4 +1,3 @@
-# ubiquitous-meme
 My personal info
 
 Hi there, I am Misha Tarasenko from Ukraine.
