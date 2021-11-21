@@ -1,4 +1,4 @@
-#README
+ABOUT ME
 
 Hi there, I am Misha Tarasenko from Ukraine.
 I am currently a student of Kharkiv National University of Radioelectronics learning computer science, 2nd year 3rd semester.
