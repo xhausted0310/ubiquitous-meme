@@ -1,7 +1,7 @@
 ABOUT ME
 
 Hi there, I am Misha Tarasenko from Ukraine.
-I am currently a student of Kharkiv National University of Radioelectronics learning computer science, 2nd year 3rd semester.
+I am currently a student of Kharkiv National University of Radioelectronics learning computer science, 2nd year 4th semester.
 I have also got a diploma from “STEP” computer academy after 3 years of deep learning mainly programming languages (C++ (Basic, OOP), C# (Basic, Unity, WPF), Java (Android), Patterns of programming).
 I have got experience in working with Unity Engine for 2 years. 
 In the future I would love to work in game development as a programmer.
